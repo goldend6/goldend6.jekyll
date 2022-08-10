@@ -15,10 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: The Golden D6
 email: theGoldenD6@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 
+The Golden D6 is a wargaming magazine for every gamer out there.
+The magazine is created in a high quality PDF format for you to download and enjoy. As soon as you buy your copy, you can immediately download it and begin enjoying it. There’s no waiting at the mailbox for the mail to be delivered. The Golden D6 is available for download immediately! It’s a one-of-a-kind wargaming magazine.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://goldend6.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: spruegrey
