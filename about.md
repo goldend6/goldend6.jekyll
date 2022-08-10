@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Reclaim your hobby! The Golden D6 is your online miniature wargaming magazine. We cover all the wonderfully varied and diverse aspects of the hobby. Every month the magazine delivers a new issue to you overflowing with the latest articles from fellow wargamers and hobbyists.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Every miniature wargamer will find something to enjoy inside each issue.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find the Golden D6 for sale here: 
 
+[Issue #1](https://spruegrey.gumroad.com/l/viPEo)
 
-[jekyll-organization]: https://github.com/jekyll
